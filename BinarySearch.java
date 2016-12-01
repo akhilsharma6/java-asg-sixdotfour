@@ -7,7 +7,7 @@
 import java.util.Scanner;	//Scanner util to read input from screen.
 
 class BinarySearch {	// Class Binary Search
-	int arr[] = {0,13,24,35,43,51,62,76,88,90, 97};		// Array with pre-defined length and value
+	int arr[] = {0,13,24,35,43,51,62,76,88,90,97};		// Array with pre-defined length and value
 	int str,end,mid;	// Few variables used to keep start, ending and middle positions
 	boolean found=false;	// Flag to store if key found or not.
 	
